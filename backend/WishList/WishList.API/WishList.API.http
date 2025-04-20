@@ -1,0 +1,6 @@
+@WishList.API_HostAddress = http://localhost:5152
+
+GET {{WishList.API_HostAddress}}
+Accept: application/json
+
+###
