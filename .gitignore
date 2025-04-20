@@ -39,7 +39,7 @@ backend/WishList/  # Все правила ниже применяются то�
 packages/
 
 # Специфичные папки проекта
-WishList.API/wwwroot/
+backend/WishList/WishList.API/wwwroot/
 WishList.API.AppHost/
 WishList.API.ServiceDefaults/
 
